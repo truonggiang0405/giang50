@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+    <meta charset = "UTF-8">
+    <title>Giang's Page</title>
+    <link rel="stylesheet" href="css/example_1.css">
+</head>
+<body>
+<header>
+   <h1> Vu Truong Giang</h1>
+   <nav>
+   <a href="https://www.coursera.org/">one</a> 
+   <a href="https://www.coursera.org/">two</a> 
+   <a href="https://www.coursera.org/">three</a> 
+   <a href="https://www.coursera.org/">four</a>
+   </nav>
+</header>
+<section class="tach">
+   <h2>Favorite Foods</h2>
+   <ul>
+       <li>Balut</li>
+       <li>Sticky rice</li>
+       <li>Milk Tea</li>
+       <li>Rare beef Pho</li>
+   </ul>
+</section>
+<section class="tach">
+   <h2>Achievements</h2>
+   <p>Progress in this course(100%) <progress value="100" max="100" ></progress>
+   <p>Progress in Specialization capstone(20%) <progress value="20" max="100" ></progress>
+   <p>Progress in life goal(99%) <progress value="99" max="100" ></progress>
+</section>
+<section class="ktach">
+   <h2>More about me</h2>
+   <details><summary>My childhood</summary>I live in Viet Nam. I have a crush on my class in highschool. It's been 3 years but I still like her and i hope somedays she will be in love with me. uWu</details>
+</section>
+   <hr>
+<div>
+     <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACOklEQVRoQ+2a8TXFMBTGvzcBG2ADJvBMwAaYABNgAscEbIAJPBNgAzZgAs53ND3pbdqbvKZtWsl/TvNy7y/fTXKTa4GZtMVMOPDvQHYBbIyk3jeAN812myJLAGcAjrRBBvr+COAWwMplrwnkBMDdQA6GmjkFcC9/5AKhEs+how/c/0Aq4wKhhIeWY14x2jOIXKNPMuRdID8Cggqpi20AEK4Ne8Op+C5BSP5qOfUCgCApNILsW47sAPgwf0sQuT5SBqmskwwyQqzJ0MqKjCBCxWRWhNMx2V1rEwDPEtO+EjgMjS9BoTX2Omizr4JQhRsA2xEoeNJe2yduhDG9FWFKfBzRIPOyvYjjeYPYSWIs+5U8KNKgamjZIF3u8Lah2n0hAsxsQFrnggpMRZFJglwCOAfAHVVrDLmLFBWRlzsNhN9XKYJcAaAiQS11EB6uBGtq5frOII4pinWO2KGVFYl9stvPN9ri/SySzSQVCcnjTBhlkD5TlFkrwrVQKwsUr+vc+SYTWtqDxmRAeB12KULASSnStA3nXYszI3MtZ6FRO8mK70y/zf3BXHW77loMw7IG4vCjrN1IEE+f1W4GJKRIZJyOksY3ecg6Ig3w1ralYvw9B61brmsC4WbA+ibf4GqNinAmNOfMW5XPGxihfa6oTfPBuv6D4yNr7JxIV7i+E4TykzTGfzYQgsZc26uHkGUXnwkznWlzaWe79mINMWr37bJZSJvyQd3lU/nI3iVtXxe2l99lkF6mtcOgv+Ja5RGCBSdjAAAAAElFTkSuQmCC" width="200" height="200" ></img> 
+     <span>This page was created by Giang & Collen van Lent.To learn more about web design, Visit <a class="intro" href = "https://intro-webdesign.com/">Intro to Web Design</a></span>
+</div>
+<nav >
+    <h3>Contact to work</h3>
+    <a href="https://www.facebook.com/profile.php?id=100049252260185">Facebook</a>
+    <a href="https://www.instagram.com/ltethi.051/">Instagram</a>
+</nav>
+</body>
+</html>
